@@ -1,4 +1,5 @@
 #created by prashanthvarma ,for any query message me at www.facebook.com/prashanthvarmadomma
+#you need to have nmap and python2.7
 
 import subprocess
 import os.path
