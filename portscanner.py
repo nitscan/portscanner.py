@@ -25,7 +25,7 @@ else:
 				        
 				                                       os.system('sudo cp python-nmap-0.1.4/nmap/nmap.py /usr/lib/python2.7/')
 								       if(os.path.isfile('/usr/lib/python2.7/nmap.py')):
-															print "[+] nmap installed run program again to scan network "
+															print "[+] nmap installed scanning network "
                                                                                                         		import nmap			                                    
  
                         
